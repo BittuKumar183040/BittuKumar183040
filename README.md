@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bittukumar183040" alt="bittukumar183040" /></a> </p>
 
-- 🔭 Projects I'm currently working on and already completed... [Todo App with different technology](https://github.com/BittuKumar183040?tab=repositories&q=Todo&type=&language=&sort=)
+- 🔭 Projects I'm currently working on... [Ecommerce Website](https://sw-us.vercel.app/)
 
 - 🌱 I’m currently learning **WebGL, Python, Django and Dev Ops**
 
@@ -15,6 +15,8 @@
 
 - 👨‍💻 You can check my portfolio for more Information [https://bittukumar183040.github.io/-/](https://bittukumar183040.github.io/-/)
 
+- 👨‍💻 You can check my projects [Projects Page](https://bittukumar183040.github.io/-/3dShowCase/)
+
 - 💬 Ask me about **Python, React, Javascript, CSS6, SCSS, HTML5, MySQL, Figma, Blender 3D**
 
 - 📫 How to reach me **bk183040@gmail.com**
@@ -23,8 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/bittu-kumar-016a07148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/bittu-kumar-016a07148" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@BittuKumar-zd8go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bittu kumar" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/bittu-kumar-016a07148" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/bittu-kumar-016a07148" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
