@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[<h1 align="center">Hi 👋, I'm Bittu Kumar</h1>](https://bittukr.vercel.app)
+>>
+>[🗃️PORTFOLIO](https://sw-us.vercel.app/)
+>
+>  <a href="http://www.linkedin.com/in/bittu-kumar-016a07148" target="blank">
+>    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/bittu-kumar-016a07148" height="20" />
+>  </a>
+>
+
+
+<h3 align="center">A passionate frontend developer from India</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittukumar183040&label=Profile%20views&color=0e75b6&style=flat" alt="bittukumar183040" /> </p>
 
@@ -13,7 +22,7 @@
 
 - This is build on top of a free api which gives random quote. [Random Advice Generater](https://bittukumar183040.github.io/Advice-Generator/)
 
-- 👨‍💻 You can check my portfolio for more Information [https://bittukumar183040.github.io/-/](https://bittukumar183040.github.io/-/)
+
 
 - 👨‍💻 You can check my projects [Projects Page](https://bittukumar183040.github.io/-/3dShowCase/)
 
@@ -22,13 +31,6 @@
 - 📫 How to reach me **bk183040@gmail.com**
 
 - ⚡ Fun fact **I'm good at 3D modelling and with combination with frontend I can do a Blast**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/bittu-kumar-016a07148" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/bittu-kumar-016a07148" height="30" width="40" />
-</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h5>Frontend Technologies</h3>
@@ -96,5 +98,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bittukumar183040&show_icons=true&locale=en&layout=compact" alt="bittukumar183040" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bittukumar183040&show_icons=true&locale=en" alt="bittukumar183040" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bittukumar183040&" alt="bittukumar183040" /></p>
