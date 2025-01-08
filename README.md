@@ -1,6 +1,6 @@
 [<h1 align="center">Hi 👋, I'm Bittu Kumar</h1>](https://bittukr.vercel.app)
 >>
->[🗃️PORTFOLIO](https://sw-us.vercel.app/)
+>[🗃️PORTFOLIO](https://bittukr.vercel.app/)
 >
 >  <a href="http://www.linkedin.com/in/bittu-kumar-016a07148" target="blank">
 >    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/bittu-kumar-016a07148" height="20" />
